@@ -12,7 +12,7 @@
 </a>
 
 Languages and Tools:
-https://github.com/user-attachments/assets/a0de192f-a887-4a2f-9823-99df9b3033ec
+
 <a href="https://www.python.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/a0de192f-a887-4a2f-9823-99df9b3033ec" alt="Check out my LinkedIn" width="150">
 </a>
