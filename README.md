@@ -1,6 +1,4 @@
-![download](https://github.com/user-attachments/assets/7b366516-53f1-45d2-8f19-2451f7b10ffe)
-![download](https://github.com/user-attachments/assets/4164e61e-c657-4809-a6bf-6b03f93413b6)
-![download](https://github.com/user-attachments/assets/056c6b4f-ae66-4aa6-8999-a12bc5dbb39b)
+
 🎓 Final Year BTech Student | Computer Science and Engineering
 💻 Skilled in Python, MySQL, and C++ | Exploring Machine Learning
 
@@ -24,7 +22,7 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/a0de192f-a887-4a2f-9823-99df9b3033ec" alt="Check out my LinkedIn" width="150">
 </a>   <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a7c2704e-c89f-4d50-a50e-e4efdc2978c6" alt="Check out my LinkedIn" width="150">
+  <img src="https://github.com/user-attachments/assets/7b366516-53f1-45d2-8f19-2451f7b10ffe" alt="Check out my LinkedIn" width="150">
 
   </a>   <a href="https://html.com">
   <img src="https://github.com/user-attachments/assets/cf70c5db-e464-4c4e-9c46-24c67192cddb" alt="Check out my LinkedIn" width="150">
