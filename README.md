@@ -15,5 +15,6 @@ Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/a0de192f-a887-4a2f-9823-99df9b3033ec" alt="Check out my LinkedIn" width="150">
-</a>
+</a>   <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a7c2704e-c89f-4d50-a50e-e4efdc2978c6" alt="Check out my LinkedIn" width="150">
 
