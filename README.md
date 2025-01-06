@@ -1,3 +1,6 @@
+![download](https://github.com/user-attachments/assets/7b366516-53f1-45d2-8f19-2451f7b10ffe)
+![download](https://github.com/user-attachments/assets/4164e61e-c657-4809-a6bf-6b03f93413b6)
+![download](https://github.com/user-attachments/assets/056c6b4f-ae66-4aa6-8999-a12bc5dbb39b)
 🎓 Final Year BTech Student | Computer Science and Engineering
 💻 Skilled in Python, MySQL, and C++ | Exploring Machine Learning
 
