@@ -5,7 +5,7 @@
 🌟 Have basic knowledge of HTML, CSS, and JavaScript, and keen to improve my web development abilities.
 🚀 Passionate about building innovative solutions and continuously expanding my technical expertise.
 
-**![Unknown-1](https://github.com/user-attachments/assets/cf70c5db-e464-4c4e-9c46-24c67192cddb)
+
 📫 Let's connect:** 
 
 <a href="https://www.linkedin.com/in/nikkhil-sethi-241529213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
