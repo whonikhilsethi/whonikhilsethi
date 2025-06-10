@@ -1,35 +1,91 @@
+<div align="center">
+  <img height="150" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Nikhil+Sethi+%7C+Software+Engineer;Flutter+Developer+%7C+Content+Creator" />
+</div>
 
-🎓 Final Year BTech Student | Computer Science and Engineering
-💻 Skilled in Python, MySQL, and C++ | Exploring Machine Learning
+###
 
-👨‍💻 Currently learning machine learning and working on projects to enhance my skills.
-🌟 Have basic knowledge of HTML, CSS, and JavaScript, and keen to improve my web development abilities.
-🚀 Passionate about building innovative solutions and continuously expanding my technical expertise.
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikhil-sethi-241529213/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@whonikhilsethi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/whonikhilsethi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
 
+###
 
-**📫 Let's connect:** 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilsethi.nikhilsethi" />
+</div>
 
-<a href="https://www.linkedin.com/in/nikkhil-sethi-241529213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a87292ec-720a-4cb4-8a50-d4eb557aa524" alt="Check out my LinkedIn" width="100">
-</a>
+###
 
+<h1 align="center">Hey there 👋, I'm NIKHIL SETHI</h1>
 
+###
 
+<h3 align="left">👨‍💻 About Me</h3>
 
+<p align="left">
+  My name is <strong>Nikhil Sethi</strong> 👋<br><br>
+  - 🔭 I’m currently exploring <strong>Flutter</strong> for app development<br>
+  - 📚 I'm learning state management, APIs, and backend integration in Flutter<br>
+  - 💡 My tech stack includes <strong>Flutter, Dart, Firebase, MySQL, Python</strong><br>
+  - ⚡ In my free time, I love creating content, exploring tech, and building cool UIs
+</p>
 
-**Languages and Tools:**
+###
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a0de192f-a887-4a2f-9823-99df9b3033ec" alt="Check out my LinkedIn" width="100">
-</a>   <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7b366516-53f1-45d2-8f19-2451f7b10ffe" alt="Check out my LinkedIn" width="100">
+<h3 align="left">🛠 Tech Stack</h3>
 
-  </a>   <a href="https://html.com">
-  <img src="https://github.com/user-attachments/assets/cf70c5db-e464-4c4e-9c46-24c67192cddb" alt="Check out my LinkedIn" width="100">
-</a>   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img src="https://github.com/user-attachments/assets/114c2f38-a587-4844-b9a9-5c053e28230b" alt="Check out my LinkedIn" width="100">
-</a>   <a href="https://www.javascript.com">
-  <img src="https://github.com/user-attachments/assets/352c13d9-75d8-44cb-8f95-9214b856e65c" alt="Check out my LinkedIn" width="100">
+#### 🌐 Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+</div>
 
+#### 🖥 Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+</div>
 
+#### 💾 Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+</div>
+
+#### 🧠 Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
+</div>
+
+#### ⚙️ Tools & Platforms
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=whonikhilsethi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
