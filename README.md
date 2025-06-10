@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Nikhil+Sethi+%7C+Software+Engineer;Flutter+Developer+%7C+Content+Creator" />
+  <img height="150" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Nikhil+Sethi+%7C+Software+Engineer;Flutter+Developer+%7C+Content+Creator" />
 </div>
 
 ###
