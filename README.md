@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/poster.gif"
+    src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/posterphoto.gif"
     alt="Banner" 
-    width="1200" 
+    width="500" 
     height="450" 
     style="object-fit: cover; border-radius: 12px;" 
   />
