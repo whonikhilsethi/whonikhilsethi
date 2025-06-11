@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/Instagram%20post%20motivational%20phrase%20yes%20girl%20yellow%2C%20white%2C%20pink%20and%20lightblue.gif?raw=true"
-       alt="Nikhil Banner"
-       style="width:100%; height:180px; object-fit:cover; object-position:center; border-radius:12px;" />
+  <img 
+    src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/Instagram%20post%20motivational%20phrase%20yes%20girl%20yellow%2C%20white%2C%20pink%20and%20lightblue.gif?raw=true" 
+    alt="Banner" 
+    width="1200" 
+    height="450" 
+    style="object-fit: cover; border-radius: 12px;" 
+  />
 </div>
+
+
 
 
 
