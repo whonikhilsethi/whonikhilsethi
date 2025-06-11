@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Nikhil+Sethi+%7C+Software+Engineer;Flutter+Developer+%7C+Content+Creator" />
+  <img src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/Instagram%20post%20motivational%20phrase%20yes%20girl%20yellow%2C%20white%2C%20pink%20and%20lightblue.gif?raw=true" alt="Nikhil Banner" style="width:100%; height:auto;" />
 </div>
+
 
 ###
 
