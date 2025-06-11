@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/Instagram%20post%20motivational%20phrase%20yes%20girl%20yellow%2C%20white%2C%20pink%20and%20lightblue.gif?raw=true" 
+    src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/poster.gif"
     alt="Banner" 
     width="1200" 
     height="450" 
