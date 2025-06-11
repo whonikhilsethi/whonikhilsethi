@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm NIKHIL SETHI</h1>
+
 
 ###
 
