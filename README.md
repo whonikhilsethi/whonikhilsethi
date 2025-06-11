@@ -2,8 +2,8 @@
   <img 
     src="https://github.com/whonikhilsethi/whonikhilsethi/blob/main/posterphoto.gif"
     alt="Banner" 
-    width="800" 
-    height="550" 
+    width="500" 
+    height="450" 
     style="object-fit: cover; border-radius: 12px;" 
   />
 </div>
