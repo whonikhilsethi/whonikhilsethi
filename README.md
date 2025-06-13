@@ -45,7 +45,9 @@
   - 🔭 I’m currently exploring <strong>Flutter</strong> for app development<br>
   - 📚 I'm learning state management, APIs, and backend integration in Flutter<br>
   - 💡 My tech stack includes <strong>Flutter, Dart, Firebase, MySQL, Python</strong><br>
-  - ⚡ In my free time, I love creating content, exploring tech, and building cool UIs
+  - ⚡ In my free time, I love creating content, exploring tech, and building cool UIs <br>
+  - 📧 Email me: <a href="mailto:nikhilsethi2k3@gmail.com">nikhilsethi2k3@gmail.com</a>
+  
 </p>
 
 ###
